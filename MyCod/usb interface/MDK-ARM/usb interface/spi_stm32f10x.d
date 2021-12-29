@@ -1,0 +1,17 @@
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\SPI_STM32F10x.c
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\SPI_STM32F10x.h
+usb interface\spi_stm32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+usb interface\spi_stm32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+usb interface\spi_stm32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h
+usb interface\spi_stm32f10x.o: .\RTE\_usb_interface\RTE_Components.h
+usb interface\spi_stm32f10x.o: ../Drivers/CMSIS/Include/core_cm3.h
+usb interface\spi_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_version.h
+usb interface\spi_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+usb interface\spi_stm32f10x.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\GPIO_STM32F10x.h
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\RTE_Driver\DMA_STM32F10x.h
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_SPI.h
+usb interface\spi_stm32f10x.o: C:\Users\sasha\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Driver\Include\Driver_Common.h
+usb interface\spi_stm32f10x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
